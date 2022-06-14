@@ -1,0 +1,58 @@
+body {
+    font-family: 'Rubik', sans-serif;
+}
+
+.text {
+    margin: auto;
+    width: 50%;
+    padding: 300px;
+}
+
+.sub {
+    color: gray;
+    font-size: 30px;
+}
+
+h1 {
+    font-size: 80px;
+}
+
+small {
+    font-size: 25px;
+}
+
+button {
+    height: 70px;
+    width: 250px;
+    font-size: 30px;
+    font-weight: bold;
+    background: #FF7A00;
+    border-radius: 100px;
+    color: white;
+    border: transparent;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+button:hover {
+    background: #c96100
+}
+
+.cmd {
+    background: white;
+    border: 2px solid gray;
+    color: gray;
+    font-weight: normal;
+}
+
+.cmd:hover {
+    background: white;
+    color: black;
+    border: 2px solid black;
+}
+
+.titlecmd {
+    font-weight: bold;
+    color: gray;
+    font-size: 23px;
+}
